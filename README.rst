@@ -1,11 +1,7 @@
 MHD-Python
 ==========
 
-
-.. toctree::
-    :maxdepth: 2
-
-    Chapter1/README
+`I- MHD equilibrium <https://github.com/ratnania/MHD-Python/blob/master/Chapter1/README.rst>`_
 
 Contributing
 ************
